@@ -1,0 +1,24 @@
+ [
+  {
+    "remote": "github",  
+    "repository": "vantoman/kernel_xiaomi_davinci",
+    "target_path": "kernel/xiaomi/davinci",
+    "branch": "pie"
+  },
+  {
+    "remote": "evo-devices",
+    "repository": "device_xiaomi_sm6150-common",
+    "target_path": "device/xiaomi/sm6150-common",
+    "revision": "pie"
+
+  },
+  {
+    "remote": "evo-devices",
+    "repository": "vendor_xiaomi_davinci",
+    "target_path": "vendor/xiaomi",
+    "revision": "pie"
+  }
+]
+
+
+

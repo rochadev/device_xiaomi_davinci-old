@@ -15,6 +15,9 @@ BOARD_RAMDISK_OFFSET := 0x02000000
 TARGET_KERNEL_SOURCE := kernel/xiaomi/davinci
 TARGET_KERNEL_CONFIG := vendor/davinci_user_defconfig
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := davinci, davinciin
+
 # Platform
 TARGET_BOARD_PLATFORM_GPU := qcom-adreno618
 
