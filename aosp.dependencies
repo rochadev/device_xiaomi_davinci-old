@@ -1,7 +1,7 @@
  [
   {
-    "remote": "github",  
-    "repository": "vantoman/kernel_xiaomi_davinci",
+    "remote": "evo-devices",
+    "repository": "kernel_xiaomi_davinci",
     "target_path": "kernel/xiaomi/davinci",
     "branch": "pie"
   },
